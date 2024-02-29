@@ -10,13 +10,13 @@ redirect_from:
 
 ![Illustration of Human and AI](/images/ai.jpg){: .align-right width="330px"}
 
-Hi there, I am a final year Masters student in [Computer Science and Automation Department](https://www.csa.iisc.ac.in/) at [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/). (IISc). I am working under [Prof. Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) in Stochastic Systems Lab (Reinforcement Learning Lab). I have done my Bachelors from [MJPRU](https://mjpru.ac.in/index.aspx), Bareilly in [Computer Science and Information Technology](https://mjpru.ac.in/computer_science_information_technology.aspx)
+Hi there, I am a final year Masters student in [**Computer Science and Automation Department**](https://www.csa.iisc.ac.in/) at [**Indian Institute of Science, Bangalore**](https://www.iisc.ac.in/) (IISc). I am working under [**Prof. Shalabh Bhatnagar**](https://www.csa.iisc.ac.in/~shalabh/) in Stochastic Systems Lab (Reinforcement Learning Lab). I have done my Bachelors from [**MJPRU**](https://mjpru.ac.in/index.aspx), Bareilly in [**Computer Science and Information Technology**](https://mjpru.ac.in/computer_science_information_technology.aspx)
 
-I mostly work in the domain of Applied RL and Deep Learning. Following the rules of Deep Learning - " To experiment and explore.." I keep exploring fields that get me interested 
+I mostly work in the domain of **Applied RL** and **Deep Learning**. Following the rules of **Deep Learning** - " To experiment and explore.." I keep exploring fields that get me interested 
 
-Most portion of my day goes in building an Agent trying to be human. My typical day involves training an RL agent for offline and online RL with possible exploration in Model free scenarios of policy learning. I have explored Model based offline and online RL. I also work on derisking the exploration penalty paid in case of bad policy while learning an optimal policy by simply approximating the environment (instead of using actual environments). This is useful for Self-Driving Cars, Drug Testing, etc. I do lot of experimentation (possibly involves interacting with complex and fun simulations of MUJOCO or competing with a trained agent in Atari games like Pong, Breakout etc.)
+Most portion of my day goes in building an Agent trying to be human. My typical day involves training an RL agent for offline and online RL with possible exploration in Model free scenarios of policy learning. I have explored Model based offline and online RL. I also work on derisking the exploration penalty paid in case of bad policy while learning an optimal policy by simply approximating the environment (instead of using actual environments). This is useful for **Self-Driving Cars**, **Drug Testing**, etc. I do lot of experimentation (possibly involves interacting with complex and fun simulations of MUJOCO or competing with a trained agent in **Atari games** like Pong, Breakout etc.)
 
-I have also had experience in NLP and CV. Mostly worked over transformer based architectures for multilingual and multi-modal problems. I have also explored Time Series Forecasting for Bitcoin price prediction (not recommended ;). 
+I have also had experience in **NLP** and **CV**. Mostly worked over **transformer based architectures** for **multilingual** and **multi-modal problems**. I have also explored **Time Series Forecasting** for **Bitcoin price prediction** (not recommended ;). 
 
 Getting started
 ======
