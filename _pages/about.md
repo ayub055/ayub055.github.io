@@ -10,7 +10,7 @@ redirect_from:
 
 ![Illustration of Human and AI](/images/ai.jpg){: .align-right width="330px"}
 
-Hi there, I am a final year Masters student in Computer Science and Automation Department at Indian Institute of Science, Bangalore. (IISc). I am working under Prof. Shalabh Bhatnagar in Stochastic Systems Lab (Reinforcement Learning Lab). 
+Hi there, I am a final year Masters student in [Computer Science and Automation Department](https://www.csa.iisc.ac.in/) at [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/). (IISc). I am working under [Prof. Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) in Stochastic Systems Lab (Reinforcement Learning Lab). 
 
 I mostly work in the domain of Applied RL and Deep Learning. Following the rules of Deep Learning - " To experiment and explore.." I keep exploring fields that get me interested 
 
