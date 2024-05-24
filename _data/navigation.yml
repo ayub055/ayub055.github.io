@@ -9,8 +9,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /posts/
     
   - title: "CV"
     url: /files/IISC_Ayub_1.pdf
