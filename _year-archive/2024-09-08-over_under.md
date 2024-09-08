@@ -1,7 +1,7 @@
 ---
 title: "Concepts of Overfitting and Underfitting"
 date: 2024-09-08
-permalink: /year-archive/actual-html-post
+permalink: /year-archive/over_under
 ---
 
 # **Concepts of Overfitting and Underfitting**
