@@ -10,10 +10,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
-    children:
-      - title: "Concepts of Overfitting and Underfitting"
-        url: /year-archive/over_under
+    url: /posts/
     
   - title: "CV"
     url: /files/IISC_Ayub_1.pdf
