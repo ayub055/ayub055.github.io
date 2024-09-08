@@ -13,7 +13,7 @@ main:
     url: /posts/
     children:
       - title: "Concepts of Overfitting and Underfitting"
-        url: /year-archive/actual-html-post
+        url: /year-archive/over_under
     
   - title: "CV"
     url: /files/IISC_Ayub_1.pdf
