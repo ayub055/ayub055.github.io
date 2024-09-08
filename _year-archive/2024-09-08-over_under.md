@@ -10,6 +10,7 @@ Click the link below to view the details of this topic:
 
 <a href="#details" onclick="document.getElementById('details').style.display='block';">Click here to view the detailed explanation</a>
 
-<div id="details" style="display:none;">
-  {% include actual.html %}
-</div>
+Below is the detailed explanation of the topic:
+
+{% include actual.html %}
+
