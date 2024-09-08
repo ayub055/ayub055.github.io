@@ -1,4 +1,4 @@
-# main links
+# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -10,10 +10,10 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
-    children:
-      - title: "Concepts of Overfitting and Underfitting"
-        url: /year-archive/actual-html-post
+    url: /posts/
     
   - title: "CV"
     url: /files/IISC_Ayub_1.pdf
+    
+  # - title: "Guide"
+  #   url: /markdown/
