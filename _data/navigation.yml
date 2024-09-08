@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: /files/IISC_Ayub_1.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
