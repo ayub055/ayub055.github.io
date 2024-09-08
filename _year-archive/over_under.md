@@ -9,4 +9,3 @@ permalink: /year-archive/over_under
 Below is the detailed explanation of the topic:
 
 {% include actual.html %}
-
